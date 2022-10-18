@@ -1,0 +1,8 @@
+export const PRODUCT_ROUTE = '/product'
+export const HOME_ROUTE = '/'
+export const ABOUT_ROUTE = '/about'
+export const CONTACT_ROUTE = '/contact'
+export const SHOP_ROUTE = '/shop'
+export const USER_ROUTE = '/user'
+export const LOGIN_ROUTE = '/login'
+export const PRODUCT_DETAIL_ROUTE = '/product/detail/:id'
