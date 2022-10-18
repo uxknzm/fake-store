@@ -12,7 +12,7 @@ const Slider = () => {
 						<div className="flex-col-l-m h-full p-t-100 p-b-30 respon5">
 							<div>
 								<span className="ltext-101 cl2 respon2">
-									Women Collection 2018
+									Women Collection 2022
 								</span>
 							</div>
 								
